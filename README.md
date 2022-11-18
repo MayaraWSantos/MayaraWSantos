@@ -1,4 +1,4 @@
-## Oie! Eu a sou Mayara 👋
+## Oie! Sou a Mayara 👋
 
 
 - 🔭  Sou docente na área de desenvolvimento web
